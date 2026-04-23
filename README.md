@@ -54,7 +54,7 @@ Cada objeto dentro del arreglo `features` representa un municipio y sigue este e
 🌐 En Web (JavaScript/Leaflet)
 Puedes cargar el archivo directamente en un mapa interactivo:
 ```
-fetch('municipios_tlaxcala.json')
+fetch('tlaxcala.json')
   .then(res => res.json())
   .then(data => {
     L.geoJSON(data, {
