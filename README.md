@@ -81,8 +81,9 @@ gdf.plot()
 ## 📚 Fuente de los Datos
 
 Este recurso ha sido procesado a partir de la información pública disponible en: 
-[División Política de México Estatal y Municipal en GeoJSON 2024 - DataMX]([https://markdownlivepreview.com/](https://datamx.io/ne/dataset/division-politica-de-mexico-estatal-y-municipal-en-geojson-2024)).
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+
+[División Política de México Estatal y Municipal en GeoJSON 2024 - DataMX](https://datamx.io/ne/dataset/division-politica-de-mexico-estatal-y-municipal-en-geojson-2024).
+
 
 ## 📝 Licencia
 Este repositorio se distribuye bajo la licencia de datos abiertos. 
