@@ -1,7 +1,7 @@
 # tlaxcala-geojson-2025
 Este repositorio contiene datos GeoJSON de los 60 municipios de TLAXCALA
 
-# GeoJSON de los Municipios de Tlaxcala (2024)
+# GeoJSON de los Municipios de Tlaxcala
 
 Este repositorio contiene la delimitación geográfica oficial de los **60 municipios del estado de Tlaxcala, México**.  
 
