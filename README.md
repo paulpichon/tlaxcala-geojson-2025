@@ -80,11 +80,9 @@ gdf.plot()
 
 ## 📚 Fuente de los Datos
 
-Este recurso ha sido procesado a partir de la información pública disponible en:
-
+Este recurso ha sido procesado a partir de la información pública disponible en: 
 [División Política de México Estatal y Municipal en GeoJSON 2024 - DataMX]([https://markdownlivepreview.com/](https://datamx.io/ne/dataset/division-politica-de-mexico-estatal-y-municipal-en-geojson-2024)).
-
-División Política de México Estatal y Municipal en GeoJSON 2024 - DataMX
+You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 ## 📝 Licencia
 Este repositorio se distribuye bajo la licencia de datos abiertos. 
@@ -93,7 +91,7 @@ Siéntete libre de clonarlo, modificarlo e integrarlo en tus proyectos. Se agrad
 
 Repositorio creado para facilitar el acceso a información geoespacial de Tlaxcala.
 
-Hecho con ❤️ para la comunidad de datos abiertos en México.
+`Hecho con ❤️ para la comunidad de datos abiertos en México.`
 
 
 
