@@ -40,7 +40,7 @@ Cada objeto dentro del arreglo `features` representa un municipio y sigue este e
   }
 }
 ```
-📖 Diccionario de Propiedades
+## 📖 Diccionario de Propiedades
 | Propiedad | Descripción |
 |----------|------------|
 | CVEGEO   | Clave concatenada de Entidad y Municipio (5 caracteres) |
@@ -50,9 +50,8 @@ Cada objeto dentro del arreglo `features` representa un municipio y sigue este e
 | NOMMUN   | Nombre oficial del municipio |
 | cov_     | Identificador de cobertura interno |
 
-🛠️ Cómo utilizar este archivo
-🌐 En Web (JavaScript / Leaflet)
-
+## 🛠️ Cómo utilizar este archivo
+🌐 En Web (JavaScript/Leaflet)
 Puedes cargar el archivo directamente en un mapa interactivo:
 ```
 fetch('municipios_tlaxcala.json')
@@ -68,7 +67,7 @@ fetch('municipios_tlaxcala.json')
 ```
 
 
-🐍 En Python (GeoPandas)
+## 🐍 En Python (GeoPandas)
 
 Para análisis de datos espaciales:
 ```
@@ -79,12 +78,13 @@ print(gdf.head())
 gdf.plot()
 ```
 
-📚 Fuente de los Datos
+## 📚 Fuente de los Datos
 
 Este recurso ha sido procesado a partir de la información pública disponible en:
 
 División Política de México Estatal y Municipal en GeoJSON 2024 - DataMX
-📝 Licencia
+
+## 📝 Licencia
 
 Este repositorio se distribuye bajo una licencia de datos abiertos.
 
