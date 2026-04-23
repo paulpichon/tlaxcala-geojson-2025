@@ -41,13 +41,14 @@ Cada objeto dentro del arreglo `features` representa un municipio y sigue este e
 }
 ```
 📖 Diccionario de Propiedades
-Propiedad	Descripción
-CVEGEO	Clave concatenada de Entidad y Municipio (5 caracteres)
-CVE_ENT	Clave de la Entidad Federativa (29 para Tlaxcala)
-NOMGEO	Nombre del estado al que pertenece
-CVE_MUN	Clave del Municipio (tres dígitos)
-NOMMUN	Nombre oficial del municipio
-cov_	Identificador de cobertura interno
+| Propiedad | Descripción |
+|----------|------------|
+| CVEGEO   | Clave concatenada de Entidad y Municipio (5 caracteres) |
+| CVE_ENT  | Clave de la Entidad Federativa (29 para Tlaxcala) |
+| NOMGEO   | Nombre del estado al que pertenece |
+| CVE_MUN  | Clave del Municipio (tres dígitos) |
+| NOMMUN   | Nombre oficial del municipio |
+| cov_     | Identificador de cobertura interno |
 
 🛠️ Cómo utilizar este archivo
 🌐 En Web (JavaScript / Leaflet)
