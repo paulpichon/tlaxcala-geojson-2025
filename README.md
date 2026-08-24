@@ -1,4 +1,4 @@
-# tlaxcala-geojson-2025
+# Datos GeoJSON TLAXCALA
 Este repositorio contiene datos GeoJSON de los 60 municipios y sus 1,741 localidades de TLAXCALA
 
 # GeoJSON de los Municipios y Localidades de Tlaxcala
